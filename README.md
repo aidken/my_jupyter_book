@@ -1,2 +1,3 @@
-# my_jupyter_book
-Trying out a Jupyter book.
+# My [Jupyter Book](https://jupyterbook.org/en/stable/start/overview.html)
+
+Trying out a Jupyter book, following overview [here](https://jupyterbook.org/en/stable/start/overview.html).
